@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AllisonBrito
-- 👀 I’m interested in backend development
+- 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 alison.ofc@gmail.com
